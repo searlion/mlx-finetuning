@@ -1,0 +1,13 @@
+[project]
+name = "mlx-finetuning"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.12"
+dependencies = [
+    "jupyterlab==4.5.0a1",
+    "matplotlib==3.10.3",
+    "numpy==2.3.0",
+    "pip-system-certs==5.2",
+    "requests==2.32.4",
+    "tqdm==4.67.1",
+]
