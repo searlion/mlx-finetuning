@@ -65,7 +65,7 @@ For major changes, please open an issue first to discuss what you would like to 
 
 ## 📋 Requirements
 
-- Python 3.8+
+- Python 3.12+
 - Apple Silicon Mac (recommended for optimal performance)
 - MLX and MLX-LM
 - Jupyter Lab/Notebook
