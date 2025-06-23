@@ -19,7 +19,7 @@ This project uses [uv](https://github.com/astral-sh/uv) for dependency managemen
 
 ## 📓 Notebooks
 
-### 1. MLX LM LoRA Fine Tune.ipynb
+### 1. MLX LM LoRA Fine Tune.ipynb [Credit: Awni Hannun. Original link [here](https://gist.github.com/awni/773e2a12079da40a1cbc566686c84c8f)]
 A comprehensive guide to standard LoRA fine-tuning covering:
 - Data preprocessing and preparation
 - LoRA configuration and setup
